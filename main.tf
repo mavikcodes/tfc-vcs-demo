@@ -40,6 +40,6 @@ provider "aws" {
 
 resource "aws_s3_bucket" "demo" {
 
-  bucket = "tfc-cli-demo-bucket-avik-3679"
+  bucket = "tfc-cli-demo-bucket-avik-36789"
 
 }
